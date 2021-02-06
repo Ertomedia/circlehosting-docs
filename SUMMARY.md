@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kebijakan Kami](README.md)
+* [Docs](README.md)
 
 ## Kebijakan Kami
 
