@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Docs](README.md)
+* [Indeks](README.md)
 
 ## Kebijakan Kami
 
@@ -12,4 +12,8 @@
 ## Administrasi
 
 * [Informasi Pembayaran](administrasi/informasi-pembayaran.md)
+
+## Lainnya
+
+* [Komparasi Paket Hosting](lainnya/komparasi-paket-hosting.md)
 
