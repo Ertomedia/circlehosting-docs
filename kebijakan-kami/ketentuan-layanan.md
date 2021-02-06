@@ -19,7 +19,7 @@ Berikut ini merupakan contoh, dan tidak terbatas hanya pada contoh ini, dari mua
 * Bitcoin miner
 * Berkas audio atau video bajakan
 
-{% hint style="info" %}
+{% hint style="danger" %}
 #### PERHATIAN
 
 JIKA PADA AKUN ANDA TERDAPAT AKTIVITAS ILEGAL, TERMASUK TETAPI TIDAK TERBATAS PADA BERKAS AUDIO MAUPUN VIDEO ILEGAL, PIRANTI LUNAK BAJAKAN, PROGRAM HACKER, WAREZ, TROJAN HORSE, MALWARE, BACKDOOR, SPYWARE ATAUPUN BERKAS-BERKAS ILEGAL LAINNYA, AKUN ANDA AKAN TERPUTUS SECARA SEKETIKA.
@@ -41,7 +41,7 @@ Terlarang untuk melakukan segala macam percobaan untuk merusak jaringan serta se
 
 Kami berhak untuk menolak, membatalkan atau menangguhkan akun layanan apabila terindikasi melanggar atau akan melanggar ketentuan layanan ini.
 
-{% hint style="info" %}
+{% hint style="warning" %}
  Semua pelanggan dari CircleHosting wajib menyetujui ketentuan diatas.
 {% endhint %}
 
@@ -57,7 +57,7 @@ Pelanggan dapat melakukan pembayaran melalui transfer antar bank ke nomor rekeni
 
 Layanan pengembalian uang \(refund\) hanya berlaku pada jenis layanan Hosting Standar, Hosting Singapore, Hosting Premium, Storage Box dan Email Bisnis. Pelanggan dapat mengajukan permintaan pengembalian uang dalam jangka waktu 14 hari setelah layanan aktif, dengan cara membuka [tiket support](https://client.circlehosting.com/client/plugin/support_manager/client_tickets/add/) yang ditujukan ke bagian Billing kami. Proses pengembalian uang akan membutuhkan waktu selama 1-2 hari kerja.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ####  PERHATIAN
 
 PERMINTAAN YANG DITERIMA SETELAH MELEWATI 14 HARI **TIDAK** AKAN DILAYANI.
