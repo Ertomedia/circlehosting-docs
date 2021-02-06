@@ -9,3 +9,7 @@
 * [Kebijakan Privasi](kebijakan-kami/kebijakan-privasi.md)
 * [Service Level Agreement](kebijakan-kami/service-level-agreement.md)
 
+## Administrasi
+
+* [Informasi Pembayaran](administrasi/informasi-pembayaran.md)
+
